@@ -50,5 +50,4 @@ public class Product {
             System.out.println("Price is: " + temp.productPrice);
         }
     }
-
 }
