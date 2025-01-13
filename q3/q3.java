@@ -1,4 +1,4 @@
-package src_assignment_day5;
+package src_assignment_day5.q3;
 
 import java.util.*;
 import java.io.*;
