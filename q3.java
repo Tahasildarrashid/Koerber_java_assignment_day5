@@ -27,6 +27,7 @@ public class q3 {
         {
             System.out.println("exiting from the code");
         }
+
         Collections.sort(arr);
         System.out.println(arr);
         double ans = arr.get(arr.size()-1);

@@ -8,6 +8,5 @@ public class Client {
         Product p = new Product();
         p.init();
         p.display();
-
     }
 }
